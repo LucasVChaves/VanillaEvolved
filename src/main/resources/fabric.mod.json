@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "vanilla_evolved_mod",
+  "version": "${version}",
+
+  "name": "Vanilla Evolved",
+  "description": "Vanilla Evolved makes some minor changes and tweaks to Vanilla Minecraft, increasing the gameplay without loosing the game's essence.",
+  "authors": [
+    "Y3T",
+    "Mathw1"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/vanilla_evolved_mod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.VanillaEvolved.Main"
+    ]
+  },
+  "mixins": [
+    "vanilla_evolved_mod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
