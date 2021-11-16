@@ -1,6 +1,5 @@
 package net.fabricmc.VanillaEvolved;
 
-import net.fabricmc.VanillaEvolved.items.testItem;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
@@ -15,8 +14,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class Main implements ModInitializer {
-
-	public static final Item TEST_ITEM = new testItem(new FabricItemSettings().group(ItemGroup.MISC));
 
 	public static final ItemGroup CMD_ONLY_ITEM_GROUP = FabricItemGroupBuilder.create(new Identifier("vanilla_evolved_mod", "general"))
 			.icon(() -> new ItemStack(Blocks.COMMAND_BLOCK))
@@ -50,7 +47,5 @@ public class Main implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Hello Fabric world!");
-
-		Registry.register(Registry.ITEM, new Identifier("vanilla_evolved_mod","test_item"), TEST_ITEM);
 	}
 }

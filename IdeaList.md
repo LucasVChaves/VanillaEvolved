@@ -11,13 +11,13 @@
 - [ ] Item frames: When interacted with shift + right click will have it visibility disabled.
 - [ ] Beacons: All mobs within its range receive the effects of a beacon.
 - [ ] Lantern: Lanterns can be dyed.
-- [ ] Saddles, name tags, bells, chain armor, packed ice, and horse armors: These items can be crafted.
+- [x] Saddles, name tags, bells, chain armor, and horse armors: These items can be crafted.
 - [ ] Beds: Sleeping now removes effects.
 - [ ] Strings: Wool can be turned into 4 strings.
 - [ ] Concrete: Concrete powder can be thrown in water filled cauldrons to make concrete blocks.
 - [ ] Totem of undying: The totem now teleports the player to a high altitude when dying in void.
 - [ ] Anvil: Right-clicking with an iron ingot repairs broken anvils.
-- [ ] Torches: Putting sticks in campfires turn them into torches.
+- [x] Torches: Putting sticks in campfires turn them into torches.
 - [ ] Lily pads: Torches and lanterns can be put on top of lily pads.
 - [ ] Signs: Signs can be edited without breaking.
 - [ ] Netherite: Netherite items are now blast-proof.
@@ -46,7 +46,7 @@
 - [ ] Ore vein: Holding a specified key breaks the hole ore vein, consumes extra durability.
 - [ ] Effect status: The duration of each active effect is shown in the corner of the screen.
 - [ ] Farmland breaking: Added the possibility to disable farmland breaking when jumping on it.
-- [ ] Creative inventory: Blocks and itens that previously could only be acquired via command now show in the creative inventory.
+- [x] Creative inventory: Blocks and items that previously could only be acquired via command now show in the creative inventory.
 - [ ] Creative toggle: It's possible to bind a key that toggles between creative and survival mode (if the player has the perms to do so).
 - [ ] Transparent armor: Armor visibility can be toggled in the skin customization tab.
 - [ ] Riptide: Riptide can be used inside water filled cauldrons.
