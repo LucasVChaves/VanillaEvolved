@@ -1,21 +1,56 @@
 package net.fabricmc.VanillaEvolved;
 
+import net.fabricmc.VanillaEvolved.items.testItem;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
+import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
+import net.minecraft.block.Blocks;
+import net.minecraft.item.Item;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
+import net.minecraft.util.Identifier;
+import net.minecraft.util.registry.Registry;
+import net.minecraft.item.ItemGroup;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class Main implements ModInitializer {
-	// This logger is used to write text to the console and the log file.
-	// It is considered best practice to use your mod id as the logger's name.
-	// That way, it's clear which mod wrote info, warnings, and errors.
+
+	public static final Item TEST_ITEM = new testItem(new FabricItemSettings().group(ItemGroup.MISC));
+
+	public static final ItemGroup CMD_ONLY_ITEM_GROUP = FabricItemGroupBuilder.create(new Identifier("vanilla_evolved_mod", "general"))
+			.icon(() -> new ItemStack(Blocks.COMMAND_BLOCK))
+			.appendItems(stacks -> {
+				stacks.add(new ItemStack(Blocks.COMMAND_BLOCK));
+				stacks.add(new ItemStack(Blocks.REPEATING_COMMAND_BLOCK));
+				stacks.add(new ItemStack(Blocks.CHAIN_COMMAND_BLOCK));
+				stacks.add(new ItemStack(Items.COMMAND_BLOCK_MINECART));
+				stacks.add(new ItemStack(Blocks.LIGHT));
+				stacks.add(new ItemStack(Blocks.BARRIER));
+				stacks.add(new ItemStack(Blocks.STRUCTURE_VOID));
+				stacks.add(new ItemStack(Blocks.STRUCTURE_BLOCK));
+				stacks.add(new ItemStack(Blocks.JIGSAW));
+				stacks.add(new ItemStack(Items.WRITTEN_BOOK));
+				stacks.add(new ItemStack(Items.ENCHANTED_BOOK));
+				stacks.add(new ItemStack(Items.KNOWLEDGE_BOOK));
+				stacks.add(new ItemStack(Blocks.SPAWNER));
+				stacks.add(new ItemStack(Items.DEBUG_STICK));
+				stacks.add(new ItemStack(Blocks.PETRIFIED_OAK_SLAB));
+				stacks.add(new ItemStack(Items.POTION));
+				stacks.add(new ItemStack(Items.SPLASH_POTION));
+				stacks.add(new ItemStack(Items.LINGERING_POTION));
+				stacks.add(new ItemStack(Items.TIPPED_ARROW));
+				stacks.add(new ItemStack(Blocks.DRAGON_EGG));
+			})
+			.build();
+
+
 	public static final Logger LOGGER = LogManager.getLogger("vanilla_evolved_mod");
 
 	@Override
 	public void onInitialize() {
-		// This code runs as soon as Minecraft is in a mod-load-ready state.
-		// However, some things (like resources) may still be uninitialized.
-		// Proceed with mild caution.
-
 		LOGGER.info("Hello Fabric world!");
+
+		Registry.register(Registry.ITEM, new Identifier("vanilla_evolved_mod","test_item"), TEST_ITEM);
 	}
 }
