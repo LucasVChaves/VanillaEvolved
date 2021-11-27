@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "AAA"
+  ],
+  "key":{
+    "A": {
+      "item": "vanilla_evolved_mod:andesite_bricks"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:andesite_bricks_slab",
+    "count": 6
+  }
+}

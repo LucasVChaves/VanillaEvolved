@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "WWW"
+  ],
+  "key":{
+    "W": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:white_concrete_slab",
+    "count": 6
+  }
+}

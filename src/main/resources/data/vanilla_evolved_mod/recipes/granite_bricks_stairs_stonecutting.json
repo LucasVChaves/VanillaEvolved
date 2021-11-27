@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": "vanilla_evolved_mod:granite_bricks_stairs",
+  "count": 1
+}

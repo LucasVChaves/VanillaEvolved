@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GG ",
+    "GG ",
+    "   "
+  ],
+  "key":{
+    "G": {
+      "item": "minecraft:polished_granite"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:granite_bricks",
+    "count": 4
+  }
+}

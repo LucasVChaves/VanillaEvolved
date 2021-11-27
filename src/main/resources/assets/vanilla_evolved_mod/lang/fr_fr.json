@@ -1,4 +1,18 @@
 {
-  "itemGroup.vanilla_evolved_mod.general": "Uniquement sur commande",
-  "item.vanilla_evolved_mod.test_item": "§6Puissant Cu"
+  "itemGroup.vanilla_evolved_mod.cmd_only": "Uniquement sur Commande",
+  "itemGroup.vanilla_evolved_mod.van_evolved_blocks": "Blocs de Vanilla Evolved",
+  "block.vanilla_evolved_mod.kiln": "Touraille",
+  "block.vanilla_evolved_mod.nether_brick_fence_gate":"Portillon en Briques du Nether",
+  "block.vanilla_evolved_mod.andesite_bricks": "Briques d'Andésite",
+  "block.vanilla_evolved_mod.diorite_bricks": "Briques en Diorite",
+  "block.vanilla_evolved_mod.granite_bricks": "Briques en Granite",
+  "block.vanilla_evolved_mod.andesite_bricks_slab": "Dalle en Briques d'Andésite",
+  "block.vanilla_evolved_mod.diorite_bricks_slab": "Dalle en Briques de Diorite",
+  "block.vanilla_evolved_mod.granite_bricks_slab": "Dalle en Briques de Granite",
+  "block.vanilla_evolved_mod.andesite_bricks_stairs": "Escalier en Briques d'Andésite",
+  "block.vanilla_evolved_mod.diorite_bricks_stairs": "Escalier en Briques de Diorite",
+  "block.vanilla_evolved_mod.granite_bricks_stairs": "Escalier en Briques de Granite",
+  "block.vanilla_evolved_mod.andesite_bricks_wall": "Muret en Briques d'Andésite",
+  "block.vanilla_evolved_mod.white_concrete_slab": "Dalle en Béton Blanc",
+  "block.vanilla_evolved_mod.white_concrete_stairs": "Escalier en Béton Blanc"
 }

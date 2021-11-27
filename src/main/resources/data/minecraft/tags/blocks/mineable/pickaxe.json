@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "vanilla_evolved_mod:kiln",
+    "vanilla_evolved_mod:nether_brick_fence_gate",
+    "vanilla_evolved_mod:andesite_bricks",
+    "vanilla_evolved_mod:diorite_bricks",
+    "vanilla_evolved_mod:granite_bricks",
+    "vanilla_evolved_mod:andesite_bricks_slab",
+    "vanilla_evolved_mod:diorite_bricks_slab",
+    "vanilla_evolved_mod:granite_bricks_slab",
+    "vanilla_evolved_mod:andesite_bricks_stairs",
+    "vanilla_evolved_mod:diorite_bricks_stairs",
+    "vanilla_evolved_mod:granite_bricks_stairs",
+    "vanilla_evolved_mod:andesite_bricks_wall",
+    "vanilla_evolved_mod:white_concrete_slab",
+    "vanilla_evolved_mod:white_concrete_stairs"
+  ]
+}

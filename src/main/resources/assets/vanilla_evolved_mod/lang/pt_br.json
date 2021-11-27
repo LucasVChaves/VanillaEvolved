@@ -1,4 +1,18 @@
 {
-  "itemGroup.vanilla_evolved_mod.general": "Somente por comando",
-  "item.vanilla_evolved_mod.test_item": "§6Cu Poderoso"
+  "itemGroup.vanilla_evolved_mod.cmd_only": "Somente por Comando",
+  "itemGroup.vanilla_evolved_mod.van_evolved_blocks": "Blocos do Vanilla Evolved",
+  "block.vanilla_evolved_mod.kiln": "Forno-Estufa",
+  "block.vanilla_evolved_mod.nether_brick_fence_gate": "Portão de Tijolos do Nether",
+  "block.vanilla_evolved_mod.andesite_bricks": "Tijolos de Andesito",
+  "block.vanilla_evolved_mod.diorite_bricks": "Tijolos de Diorito",
+  "block.vanilla_evolved_mod.granite_bricks": "Tijolos de Granito",
+  "block.vanilla_evolved_mod.andesite_bricks_slab": "Laje de Tijolos de Andesito",
+  "block.vanilla_evolved_mod.diorite_bricks_slab": "Laje de Tijolos de Diorito",
+  "block.vanilla_evolved_mod.granite_bricks_slab": "Laje de Tijolos de Granito",
+  "block.vanilla_evolved_mod.andesite_bricks_stairs": "Escadas de Tijolos de Andesito",
+  "block.vanilla_evolved_mod.diorite_bricks_stairs": "Escadas de Tijolos de Diorito",
+  "block.vanilla_evolved_mod.granite_bricks_stairs": "Escadas de Tijolos de Granito",
+  "block.vanilla_evolved_mod.andesite_bricks_wall": "Muro de Tijolos de Andesito",
+  "block.vanilla_evolved_mod.white_concrete_slab": "Laje de Concreto Branco",
+  "block.vanilla_evolved_mod.white_concrete_stairs": "Escadas de Concreto Branco"
 }

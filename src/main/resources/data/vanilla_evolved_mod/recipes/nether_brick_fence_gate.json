@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "BNB",
+    "   "
+  ],
+  "key":{
+    "B": {
+      "item": "minecraft:nether_brick"
+    },
+    "N": {
+      "item": "minecraft:nether_bricks"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:nether_brick_fence_gate",
+    "count": 1
+  }
+}

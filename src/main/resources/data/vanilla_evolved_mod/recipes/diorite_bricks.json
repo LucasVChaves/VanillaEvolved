@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DD ",
+    "DD ",
+    "   "
+  ],
+  "key":{
+    "D": {
+      "item": "minecraft:polished_diorite"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:diorite_bricks",
+    "count": 4
+  }
+}

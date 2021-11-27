@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "vanilla_evolved_mod:diorite_bricks"
+  },
+  "result": "vanilla_evolved_mod:diorite_bricks_stairs",
+  "count": 1
+}
