@@ -2,7 +2,7 @@
 
 ## Item Changes
 
-- [ ] Rotten flesh: Rotten flesh can be put in the furnace to make leather, or added in the composter do make bone meal.
+- [x] Rotten flesh: Rotten flesh can be put in the furnace to make leather, or added in the composter do make bone meal.
 - [ ] Elytra: The wings can spawn with some durability already decreased. They can be enchanted with Protection and have
       a small chance to be found already enchanted (Unbreaking 1-3, Protection 1-4, or Mending).
 - [ ] Crops: Now, when broken with a hoe, crops are replanted.
@@ -13,7 +13,7 @@
 - [ ] Lantern: Lanterns can be dyed.
 - [x] Saddles, name tags, bells, chain armor, and horse armors: These items can be crafted.
 - [ ] Beds: Sleeping now removes effects.
-- [ ] Strings: Wool can be turned into 4 strings.
+- [x] Strings: Wool can be turned into 4 strings.
 - [ ] Concrete: Concrete powder can be thrown in water filled cauldrons to make concrete blocks.
 - [ ] Totem of undying: The totem now teleports the player to a high altitude when dying in void.
 - [ ] Anvil: Right-clicking with an iron ingot repairs broken anvils.
@@ -23,6 +23,8 @@
 - [ ] Netherite: Netherite items are now blast-proof.
 - [ ] Bookshelf: Bookshelves now change textures based on the wood they are made of.
 - [ ] Plants: Continuously growing plants can be trimmed with shears + right click, and will stop growing.
+- [ ] Sponge: Putting it on fire with a flint and steel dries it.
+- [x] Kiln: A furnace type block that smelts stone, clay, sand, and similar blocks faster. (WIP)
 - [ ] Building blocks: Adding more variation to building blocks, like concrete stairs, slabs, walls, wooden walls, 
       nether brick gate (finally), etc.
 
