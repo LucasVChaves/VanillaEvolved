@@ -13,6 +13,12 @@
   "block.vanilla_evolved_mod.diorite_bricks_stairs": "Diorite Bricks Stairs",
   "block.vanilla_evolved_mod.granite_bricks_stairs": "Granite Bricks Stairs",
   "block.vanilla_evolved_mod.andesite_bricks_wall": "Andesite Bricks Wall",
+  "block.vanilla_evolved_mod.diorite_bricks_wall": "Diorite Bricks Wall",
+  "block.vanilla_evolved_mod.granite_bricks_wall": "Granite Bricks Wall",
   "block.vanilla_evolved_mod.white_concrete_slab": "White Concrete Slab",
-  "block.vanilla_evolved_mod.white_concrete_stairs": "White Concrete Stairs"
+  "block.vanilla_evolved_mod.white_concrete_stairs": "White Concrete Stairs",
+  "block.vanilla_evolved_mod.white_concrete_wall": "White Concrete Wall",
+  "block.vanilla_evolved_mod.orange_concrete_slab": "Orange Concrete Slab",
+  "block.vanilla_evolved_mod.orange_concrete_stairs": "Orange Concrete Stairs",
+  "block.vanilla_evolved_mod.orange_concrete_wall": "Orange Concrete Wall"
 }

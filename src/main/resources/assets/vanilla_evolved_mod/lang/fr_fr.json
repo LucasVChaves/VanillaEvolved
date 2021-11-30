@@ -13,6 +13,12 @@
   "block.vanilla_evolved_mod.diorite_bricks_stairs": "Escalier en Briques de Diorite",
   "block.vanilla_evolved_mod.granite_bricks_stairs": "Escalier en Briques de Granite",
   "block.vanilla_evolved_mod.andesite_bricks_wall": "Muret en Briques d'Andésite",
+  "block.vanilla_evolved_mod.diorite_bricks_wall": "Muret en Briques de Diorite",
+  "block.vanilla_evolved_mod.granite_bricks_wall": "Muret en Brique de Granite",
   "block.vanilla_evolved_mod.white_concrete_slab": "Dalle en Béton Blanc",
-  "block.vanilla_evolved_mod.white_concrete_stairs": "Escalier en Béton Blanc"
+  "block.vanilla_evolved_mod.white_concrete_stairs": "Escalier en Béton Blanc",
+  "block.vanilla_evolved_mod.white_concrete_wall": "Muret en Béton Blanc",
+  "block.vanilla_evolved_mod.orange_concrete_slab": "Dalle en Béton Orange",
+  "block.vanilla_evolved_mod.orange_concrete_stairs": "Escalier en Béton Orange",
+  "block.vanilla_evolved_mod.orange_concrete_wall": "Muret en Béton Orange"
 }

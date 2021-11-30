@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "OOO",
+    "OOO"
+  ],
+  "key":{
+    "O": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:orange_concrete_wall",
+    "count": 6
+  }
+}

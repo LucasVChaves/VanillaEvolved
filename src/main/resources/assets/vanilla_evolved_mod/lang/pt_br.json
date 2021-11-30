@@ -13,6 +13,12 @@
   "block.vanilla_evolved_mod.diorite_bricks_stairs": "Escadas de Tijolos de Diorito",
   "block.vanilla_evolved_mod.granite_bricks_stairs": "Escadas de Tijolos de Granito",
   "block.vanilla_evolved_mod.andesite_bricks_wall": "Muro de Tijolos de Andesito",
+  "block.vanilla_evolved_mod.diorite_bricks_wall": "Muro de Tijolos de Diorito",
+  "block.vanilla_evolved_mod.granite_bricks_wall": "Muro de Tijolos de Granito",
   "block.vanilla_evolved_mod.white_concrete_slab": "Laje de Concreto Branco",
-  "block.vanilla_evolved_mod.white_concrete_stairs": "Escadas de Concreto Branco"
+  "block.vanilla_evolved_mod.white_concrete_stairs": "Escadas de Concreto Branco",
+  "block.vanilla_evolved_mod.white_concrete_wall": "Muro de Concreto Branco",
+  "block.vanilla_evolved_mod.orange_concrete_slab": "Laje de Concreto Laranja",
+  "block.vanilla_evolved_mod.orange_concrete_stairs": "Escadas de Concreto Laranja",
+  "block.vanilla_evolved_mod.orange_concrete_wall": "Muro de Concreto Laranja"
 }

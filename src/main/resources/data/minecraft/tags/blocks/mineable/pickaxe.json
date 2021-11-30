@@ -13,7 +13,13 @@
     "vanilla_evolved_mod:diorite_bricks_stairs",
     "vanilla_evolved_mod:granite_bricks_stairs",
     "vanilla_evolved_mod:andesite_bricks_wall",
+    "vanilla_evolved_mod:diorite_bricks_wall",
+    "vanilla_evolved_mod:granite_bricks_wall",
     "vanilla_evolved_mod:white_concrete_slab",
-    "vanilla_evolved_mod:white_concrete_stairs"
+    "vanilla_evolved_mod:white_concrete_stairs",
+    "vanilla_evolved_mod:white_concrete_wall",
+    "vanilla_evolved_mod:orange_concrete_slab",
+    "vanilla_evolved_mod:orange_concrete_stairs",
+    "vanilla_evolved_mod:orange_concrete_wall"
   ]
 }
