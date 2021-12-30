@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CCC",
+    "CCC"
+  ],
+  "key":{
+    "C": {
+      "item": "minecraft:calcite"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:calcite_wall",
+    "count": 6
+  }
+}

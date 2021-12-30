@@ -61,6 +61,16 @@ public class ModBlocks {
     public static final Block GRANITE_BRICKS_WALL = registerBlock("granite_bricks_wall",
             new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.50f).requiresTool()));
 
+    //Calcite -----------------------------------------------------------------------------------
+    public static final Block CALCITE_SLAB = registerBlock("calcite_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+
+    public static final Block CALCITE_STAIRS = registerBlock("calcite_stairs",
+            new ModCustomStairs(Blocks.CALCITE.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+
+    public static final Block CALCITE_WALL = registerBlock("calcite_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+
     //White Concrete -----------------------------------------------------------------------------------
     public static final Block WHITE_CONCRETE_SLAB = registerBlock("white_concrete_slab",
             new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.80f).requiresTool()));
