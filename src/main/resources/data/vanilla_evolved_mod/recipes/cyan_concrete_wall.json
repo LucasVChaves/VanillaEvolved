@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "CCC",
+    "CCC"
+  ],
+  "key":{
+    "C": {
+      "item": "minecraft:cyan_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:cyan_concrete_wall",
+    "count": 6
+  }
+}

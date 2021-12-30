@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " LM",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lantern"
+    },
+    "M": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:magenta_lantern",
+    "count": 1
+  }
+}

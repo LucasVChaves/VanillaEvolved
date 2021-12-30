@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " LG",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lantern"
+    },
+    "G": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:gray_lantern",
+    "count": 1
+  }
+}

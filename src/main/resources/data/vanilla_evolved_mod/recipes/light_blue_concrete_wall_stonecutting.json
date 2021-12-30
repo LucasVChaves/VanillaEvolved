@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:light_blue_concrete"
+  },
+  "result": "vanilla_evolved_mod:light_blue_concrete_wall",
+  "count": 1
+}

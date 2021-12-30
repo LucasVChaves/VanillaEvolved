@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " LO",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lantern"
+    },
+    "O": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:orange_lantern",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  Y",
+    " YY",
+    "YYY"
+  ],
+  "key":{
+    "Y": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:yellow_concrete_stairs",
+    "count": 4
+  }
+}

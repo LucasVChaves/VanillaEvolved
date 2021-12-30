@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "LLL"
+  ],
+  "key":{
+    "L": {
+      "item": "minecraft:light_blue_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:light_blue_concrete_slab",
+    "count": 6
+  }
+}

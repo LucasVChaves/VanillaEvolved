@@ -5,6 +5,20 @@
     "vanilla_evolved_mod:diorite_bricks_wall",
     "vanilla_evolved_mod:granite_bricks_wall",
     "vanilla_evolved_mod:white_concrete_wall",
-    "vanilla_evolved_mod:orange_concrete_wall"
+    "vanilla_evolved_mod:orange_concrete_wall",
+    "vanilla_evolved_mod:magenta_concrete_wall",
+    "vanilla_evolved_mod:light_blue_concrete_wall",
+    "vanilla_evolved_mod:yellow_concrete_wall",
+    "vanilla_evolved_mod:lime_concrete_wall",
+    "vanilla_evolved_mod:pink_concrete_wall",
+    "vanilla_evolved_mod:light_gray_concrete_wall",
+    "vanilla_evolved_mod:gray_concrete_wall",
+    "vanilla_evolved_mod:cyan_concrete_wall",
+    "vanilla_evolved_mod:purple_concrete_wall",
+    "vanilla_evolved_mod:blue_concrete_wall",
+    "vanilla_evolved_mod:brown_concrete_wall",
+    "vanilla_evolved_mod:green_concrete_wall",
+    "vanilla_evolved_mod:red_concrete_wall",
+    "vanilla_evolved_mod:black_concrete_wall"
   ]
 }

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "PPP",
+    "PPP"
+  ],
+  "key":{
+    "P": {
+      "item": "minecraft:purple_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:purple_concrete_wall",
+    "count": 6
+  }
+}

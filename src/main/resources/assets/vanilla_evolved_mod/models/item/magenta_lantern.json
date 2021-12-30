@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "vanilla_evolved_mod:item/magenta_lantern"
+  }
+}

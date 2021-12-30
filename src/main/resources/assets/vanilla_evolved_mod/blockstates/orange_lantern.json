@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "vanilla_evolved_mod:block/orange_lantern"
+    },
+    "hanging=true": {
+      "model": "vanilla_evolved_mod:block/orange_lantern_hanging"
+    }
+  }
+}

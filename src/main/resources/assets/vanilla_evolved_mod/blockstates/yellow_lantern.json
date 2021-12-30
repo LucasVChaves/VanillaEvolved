@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "vanilla_evolved_mod:block/yellow_lantern"
+    },
+    "hanging=true": {
+      "model": "vanilla_evolved_mod:block/yellow_lantern_hanging"
+    }
+  }
+}

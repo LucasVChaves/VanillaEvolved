@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "YYY"
+  ],
+  "key":{
+    "Y": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:yellow_concrete_slab",
+    "count": 6
+  }
+}

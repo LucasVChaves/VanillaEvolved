@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " Ll",
+    "   "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lantern"
+    },
+    "l": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:lime_lantern",
+    "count": 1
+  }
+}

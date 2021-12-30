@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "RRR",
+    "RRR"
+  ],
+  "key":{
+    "R": {
+      "item": "minecraft:red_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:red_concrete_wall",
+    "count": 6
+  }
+}

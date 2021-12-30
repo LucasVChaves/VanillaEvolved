@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "GGG"
+  ],
+  "key":{
+    "G": {
+      "item": "minecraft:green_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:green_concrete_slab",
+    "count": 6
+  }
+}

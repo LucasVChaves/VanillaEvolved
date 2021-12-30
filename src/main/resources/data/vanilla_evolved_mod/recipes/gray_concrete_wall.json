@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "GGG",
+    "GGG"
+  ],
+  "key":{
+    "G": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:gray_concrete_wall",
+    "count": 6
+  }
+}

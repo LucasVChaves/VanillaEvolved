@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  G",
+    " GG",
+    "GGG"
+  ],
+  "key":{
+    "G": {
+      "item": "minecraft:green_concrete"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:green_concrete_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:red_concrete"
+  },
+  "result": "vanilla_evolved_mod:red_concrete_stairs",
+  "count": 1
+}
