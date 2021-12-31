@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "AAA",
+    "AAA"
+  ],
+  "key":{
+    "A": {
+      "item": "minecraft:amethyst_block"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:amethyst_wall",
+    "count": 6
+  }
+}

@@ -6,6 +6,22 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "vanilla_evolved_mod:yellow_concrete_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "add": false
+            }
+          ],
           "name": "vanilla_evolved_mod:yellow_concrete_slab"
         }
       ],

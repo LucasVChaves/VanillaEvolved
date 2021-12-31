@@ -71,6 +71,36 @@ public class ModBlocks {
     public static final Block CALCITE_WALL = registerBlock("calcite_wall",
             new WallBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
 
+    //Smooth Basalt -----------------------------------------------------------------------------------
+    public static final Block SMOOTH_BASALT_SLAB = registerBlock("smooth_basalt_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+
+    public static final Block SMOOTH_BASALT_STAIRS = registerBlock("smooth_basalt_stairs",
+            new ModCustomStairs(Blocks.SMOOTH_BASALT.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+
+    public static final Block SMOOTH_BASALT_WALL = registerBlock("smooth_basalt_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+
+    //Tuff -----------------------------------------------------------------------------------
+    public static final Block TUFF_SLAB = registerBlock("tuff_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.TUFF)));
+
+    public static final Block TUFF_STAIRS = registerBlock("tuff_stairs",
+            new ModCustomStairs(Blocks.TUFF.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.TUFF)));
+
+    public static final Block TUFF_WALL = registerBlock("tuff_wall",
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.5f).requiresTool().sounds(BlockSoundGroup.TUFF)));
+
+    //Amethyst -----------------------------------------------------------------------------------
+    public static final Block AMETHYST_SLAB = registerBlock("amethyst_slab",
+            new SlabBlock(FabricBlockSettings.of(Material.AMETHYST).strength(1.5f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
+    public static final Block AMETHYST_STAIRS = registerBlock("amethyst_stairs",
+            new ModCustomStairs(Blocks.AMETHYST_BLOCK.getDefaultState(), FabricBlockSettings.of(Material.AMETHYST).strength(1.5f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
+    public static final Block AMETHYST_WALL = registerBlock("amethyst_wall",
+            new WallBlock(FabricBlockSettings.of(Material.AMETHYST).strength(1.5f).requiresTool().sounds(BlockSoundGroup.AMETHYST_BLOCK)));
+
     //White Concrete -----------------------------------------------------------------------------------
     public static final Block WHITE_CONCRETE_SLAB = registerBlock("white_concrete_slab",
             new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.80f).requiresTool()));

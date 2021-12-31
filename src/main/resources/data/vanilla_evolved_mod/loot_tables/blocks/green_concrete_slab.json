@@ -6,7 +6,23 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "vanilla_evolved_mod:green_concrete_slab"
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "vanilla_evolved_mod:green_concrete_slab",
+                  "properties": {
+                    "type": "double"
+                  }
+                }
+              ],
+              "count": 2.0,
+              "add": false
+            }
+          ],
+          "name": "vanilla_evolved_mod:gray_concrete_slab"
         }
       ],
       "conditions": [

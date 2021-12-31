@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "TTT"
+  ],
+  "key":{
+    "T": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:tuff_slab",
+    "count": 6
+  }
+}

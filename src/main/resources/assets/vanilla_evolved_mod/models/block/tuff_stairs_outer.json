@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "vanilla_evolved_mod:block/tuff",
+    "top": "vanilla_evolved_mod:block/tuff",
+    "side": "vanilla_evolved_mod:block/tuff"
+  }
+}

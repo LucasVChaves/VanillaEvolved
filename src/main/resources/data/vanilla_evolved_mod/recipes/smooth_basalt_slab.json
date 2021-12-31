@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "SSS"
+  ],
+  "key":{
+    "S": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "vanilla_evolved_mod:smooth_basalt_slab",
+    "count": 6
+  }
+}
