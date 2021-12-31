@@ -9,6 +9,9 @@ Vanilla Evolved is a fabric based Minecraft mod that aims to increase the game's
 It's currently only available for Minecraft version 1.17.1.  
 I'm working on updating to 1.18 as soon it launches.
 
+There is no downloadable release yet because I don't think the mod is in an impactful state yet.  
+As soon as it gets nice and useful I'll add releases.
+
 ## Features: 
 [Check this file](./Features.md) to see what the mod implements.
 
