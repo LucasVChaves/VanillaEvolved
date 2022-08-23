@@ -3,6 +3,6 @@
   "ingredient": {
     "item": "minecraft:amethyst_block"
   },
-  "result": "vanilla_evolved_mod:amethyst_slab_block",
+  "result": "vanilla_evolved_mod:amethyst_slab",
   "count": 2
 }
