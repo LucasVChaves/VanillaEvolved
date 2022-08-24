@@ -20,7 +20,7 @@ public class ModBlocks {
 
     //Nether brick fence gate -----------------------------------------------------------------------
     public static final Block NETHER_BRICK_FENCE_GATE = registerBlock("nether_brick_fence_gate",
-            new FenceGateBlock(FabricBlockSettings.of(Material.STONE).strength(2.0f).requiresTool()));
+            new FenceGateBlock(FabricBlockSettings.of(Material.STONE).strength(2.0f).requiresTool().sounds(BlockSoundGroup.NETHER_BRICKS)));
 
     //Andesite -----------------------------------------------------------------------------------
     public static final Block ANDESITE_BRICKS = registerBlock("andesite_bricks",
@@ -63,23 +63,23 @@ public class ModBlocks {
 
     //Calcite -----------------------------------------------------------------------------------
     public static final Block CALCITE_SLAB = registerBlock("calcite_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool().sounds(BlockSoundGroup.CALCITE)));
 
     public static final Block CALCITE_STAIRS = registerBlock("calcite_stairs",
-            new ModCustomStairs(Blocks.CALCITE.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+            new ModCustomStairs(Blocks.CALCITE.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool().sounds(BlockSoundGroup.CALCITE)));
 
     public static final Block CALCITE_WALL = registerBlock("calcite_wall",
-            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool()));
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(0.75f).requiresTool().sounds(BlockSoundGroup.CALCITE)));
 
     //Smooth Basalt -----------------------------------------------------------------------------------
     public static final Block SMOOTH_BASALT_SLAB = registerBlock("smooth_basalt_slab",
-            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+            new SlabBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool().sounds(BlockSoundGroup.BASALT)));
 
     public static final Block SMOOTH_BASALT_STAIRS = registerBlock("smooth_basalt_stairs",
-            new ModCustomStairs(Blocks.SMOOTH_BASALT.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+            new ModCustomStairs(Blocks.SMOOTH_BASALT.getDefaultState(), FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool().sounds(BlockSoundGroup.BASALT)));
 
     public static final Block SMOOTH_BASALT_WALL = registerBlock("smooth_basalt_wall",
-            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool()));
+            new WallBlock(FabricBlockSettings.of(Material.STONE).strength(1.25f).requiresTool().sounds(BlockSoundGroup.BASALT)));
 
     //Tuff -----------------------------------------------------------------------------------
     public static final Block TUFF_SLAB = registerBlock("tuff_slab",

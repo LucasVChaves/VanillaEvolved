@@ -1,5 +1,19 @@
 {
   "variants": {
-    "": {"model": "vanilla_evolved_mod:block/kiln"}
+    "facing=north": {
+      "model": "vanilla_evolved_mod:block/kiln"
+    },
+    "facing=south": {
+      "model": "vanilla_evolved_mod:block/kiln",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vanilla_evolved_mod:block/kiln",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "vanilla_evolved_mod:block/kiln",
+      "y": 90
+    }
   }
 }
